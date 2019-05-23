@@ -13,3 +13,6 @@ pyqt5
 从mongodb中获取相关数据
 
 将标注数据存入其中
+
+## 运行 ##
+python firstGUI.py即可
