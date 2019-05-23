@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'firstGUI.py'
-#
-# Created by: PyQt5 UI code generator 5.11.3
-#
-# WARNING! All changes made in this file will be lost!
-
 from PyQt5 import QtWidgets
-# from bj1 import Ui_MainWindow
-from xulie import Ui_MainWindow
+from bj1 import Ui_MainWindow
+# from xulie import Ui_MainWindow
 from PyQt5.QtWidgets import QFileDialog
 
 class MyWindow(QtWidgets.QMainWindow,Ui_MainWindow):
